@@ -14,7 +14,7 @@ body {
   font-weight: bold;
   height: 100%;
   line-height: 1;
-  background: #121212;
+  background: #393D3F;
   margin: 0;
 }
 
@@ -32,13 +32,13 @@ h1 {
   
   font-weight: bold;
     font-size: 55px;
-    color: #fff;
+    color: #62929E;
     font-family: 'Inter', sans-serif;
 }
 
 
 .generate-btn {
-  border: 3px solid #fff;
+  border: 3px solid #62929E;
   border-radius: 10px;
   color: #eee;
   font-family: 'Inter', sans-serif;
